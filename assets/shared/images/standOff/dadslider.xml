@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dadslider.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dad slide0000" x="10" y="10" width="967" height="252" frameX="-2243" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0001" x="10" y="10" width="967" height="252" frameX="-2243" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0002" x="987" y="10" width="967" height="252" frameX="-1241" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0003" x="10" y="272" width="423" height="252" frameX="-1241" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0004" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0005" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0006" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0007" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0008" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0009" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0010" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0011" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0012" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0013" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0014" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0015" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0016" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0017" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0018" x="443" y="272" width="965" height="252" frameX="-154" frameY="0" frameWidth="3210" frameHeight="252"/>
+	<SubTexture name="dad slide0019" x="10" y="534" width="965" height="252" frameX="0" frameY="0" frameWidth="3210" frameHeight="252"/>
+</TextureAtlas>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="waddle dee bob.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="waddle dee bob0000" x="10" y="10" width="561" height="544" frameX="0" frameY="-30" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0001" x="10" y="10" width="561" height="544" frameX="0" frameY="-30" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0002" x="581" y="10" width="540" height="559" frameX="-11" frameY="-15" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0003" x="581" y="10" width="540" height="559" frameX="-11" frameY="-15" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0004" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0005" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0006" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0007" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0008" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0009" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0010" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0011" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0012" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0013" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0014" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0015" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+	<SubTexture name="waddle dee bob0016" x="1131" y="10" width="537" height="556" frameX="-28" frameY="0" frameWidth="565" frameHeight="574"/>
+</TextureAtlas>

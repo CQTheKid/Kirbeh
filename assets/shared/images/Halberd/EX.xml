@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EX.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ex0000" x="10" y="10" width="392" height="646"/>
+	<SubTexture name="ex0001" x="412" y="10" width="392" height="646"/>
+	<SubTexture name="ex0002" x="412" y="10" width="392" height="646"/>
+	<SubTexture name="ex0003" x="814" y="10" width="392" height="646"/>
+	<SubTexture name="ex0004" x="1216" y="10" width="392" height="646"/>
+	<SubTexture name="ex0005" x="1618" y="10" width="392" height="646"/>
+	<SubTexture name="ex0006" x="10" y="666" width="392" height="646"/>
+	<SubTexture name="ex0007" x="412" y="666" width="392" height="646"/>
+	<SubTexture name="ex0008" x="814" y="666" width="392" height="646"/>
+	<SubTexture name="ex0009" x="1216" y="666" width="392" height="646"/>
+	<SubTexture name="ex0010" x="1618" y="666" width="392" height="646"/>
+	<SubTexture name="ex0011" x="10" y="1322" width="392" height="646"/>
+	<SubTexture name="ex0012" x="412" y="1322" width="392" height="646"/>
+	<SubTexture name="ex0013" x="814" y="1322" width="392" height="646"/>
+</TextureAtlas>

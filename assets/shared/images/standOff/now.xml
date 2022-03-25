@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="now.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="now0000" x="10" y="10" width="713" height="935" frameX="-8" frameY="0" frameWidth="721" frameHeight="935"/>
+	<SubTexture name="now0001" x="733" y="10" width="703" height="915" frameX="0" frameY="-2" frameWidth="721" frameHeight="935"/>
+	<SubTexture name="now0002" x="10" y="955" width="706" height="928" frameX="-9" frameY="0" frameWidth="721" frameHeight="935"/>
+	<SubTexture name="now0003" x="726" y="955" width="703" height="920" frameX="-4" frameY="-2" frameWidth="721" frameHeight="935"/>
+</TextureAtlas>

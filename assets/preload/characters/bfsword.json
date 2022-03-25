@@ -1,0 +1,232 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle sword"
+		},
+		{
+			"offsets": [
+				-18,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left sword0"
+		},
+		{
+			"offsets": [
+				5,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sword down0"
+		},
+		{
+			"offsets": [
+				-1,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sword up0"
+		},
+		{
+			"offsets": [
+				-173,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right sword0"
+		},
+		{
+			"offsets": [
+				-16,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left sword miss"
+		},
+		{
+			"offsets": [
+				5,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "sword down miss"
+		},
+		{
+			"offsets": [
+				4,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "sword up miss"
+		},
+		{
+			"offsets": [
+				-174,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right sword miss"
+		},
+		{
+			"offsets": [
+				-160,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTdodge",
+			"indices": [],
+			"name": "sword block left"
+		},
+		{
+			"offsets": [
+				-160,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNdodge",
+			"indices": [],
+			"name": "sword block down"
+		},
+		{
+			"offsets": [
+				-160,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPdodge",
+			"indices": [],
+			"name": "sword block up"
+		},
+		{
+			"offsets": [
+				-160,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTdodge",
+			"indices": [],
+			"name": "sword block right"
+		},
+		{
+			"offsets": [
+				15,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-attack",
+			"indices": [],
+			"name": "attack left"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-attack",
+			"indices": [],
+			"name": "attack right"
+		},
+		{
+			"offsets": [
+				215,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-attack",
+			"indices": [],
+			"name": "attack down"
+		},
+		{
+			"offsets": [
+				130,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-attack",
+			"indices": [],
+			"name": "attack up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				-14
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge sword",
+			"indices": []
+		},
+		{
+			"offsets": [
+				143,
+				246
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "swordGotten",
+			"loop": false,
+			"name": "sword get"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sword bf",
+	"position": [
+		-120,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		40,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

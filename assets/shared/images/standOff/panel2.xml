@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="panel2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="panel 20000" x="10" y="10" width="712" height="262" frameX="0" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20001" x="10" y="282" width="712" height="262" frameX="-685" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20002" x="10" y="282" width="712" height="262" frameX="-1242" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20003" x="10" y="282" width="712" height="262" frameX="-1616" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20004" x="10" y="282" width="712" height="262" frameX="-1842" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20005" x="10" y="282" width="712" height="262" frameX="-1957" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20006" x="10" y="282" width="712" height="262" frameX="-2000" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20007" x="10" y="554" width="713" height="262" frameX="-2006" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20008" x="10" y="554" width="713" height="262" frameX="-2022" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20009" x="10" y="554" width="713" height="262" frameX="-2038" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20010" x="10" y="554" width="713" height="262" frameX="-2054" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20011" x="10" y="554" width="713" height="262" frameX="-2070" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20012" x="10" y="554" width="713" height="262" frameX="-2086" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20013" x="10" y="554" width="713" height="262" frameX="-2102" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20014" x="10" y="554" width="713" height="262" frameX="-2118" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20015" x="10" y="554" width="713" height="262" frameX="-2118" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20016" x="10" y="554" width="713" height="262" frameX="-2118" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20017" x="10" y="554" width="713" height="262" frameX="-2118" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20018" x="10" y="554" width="713" height="262" frameX="-2118" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20019" x="10" y="554" width="713" height="262" frameX="-2118" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20020" x="10" y="554" width="713" height="262" frameX="-2118" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20021" x="10" y="554" width="713" height="262" frameX="-2118" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20022" x="10" y="554" width="713" height="262" frameX="-2118" frameY="0" frameWidth="2830" frameHeight="262"/>
+	<SubTexture name="panel 20023" x="10" y="554" width="713" height="262" frameX="-2118" frameY="0" frameWidth="2830" frameHeight="262"/>
+</TextureAtlas>

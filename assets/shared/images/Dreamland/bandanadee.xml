@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bandanadee.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bandana dee idle0000" x="10" y="10" width="391" height="265" frameX="0" frameY="-13" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0001" x="10" y="10" width="391" height="265" frameX="0" frameY="-13" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0002" x="411" y="10" width="373" height="277" frameX="-6" frameY="-1" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0003" x="411" y="10" width="373" height="277" frameX="-6" frameY="-1" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0004" x="10" y="297" width="372" height="278" frameX="-7" frameY="0" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0005" x="10" y="297" width="372" height="278" frameX="-7" frameY="0" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0006" x="10" y="297" width="372" height="278" frameX="-7" frameY="0" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0007" x="10" y="297" width="372" height="278" frameX="-7" frameY="0" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0008" x="10" y="297" width="372" height="278" frameX="-7" frameY="0" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0009" x="10" y="297" width="372" height="278" frameX="-7" frameY="0" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0010" x="10" y="297" width="372" height="278" frameX="-7" frameY="0" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0011" x="10" y="297" width="372" height="278" frameX="-7" frameY="0" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0012" x="10" y="297" width="372" height="278" frameX="-7" frameY="0" frameWidth="391" frameHeight="278"/>
+	<SubTexture name="Bandana dee idle0013" x="10" y="297" width="372" height="278" frameX="-7" frameY="0" frameWidth="391" frameHeight="278"/>
+</TextureAtlas>

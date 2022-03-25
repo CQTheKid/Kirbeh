@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="galaxianote.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="10" y="10" width="128" height="171"/>
+	<SubTexture name="blue0001" x="10" y="10" width="128" height="171"/>
+	<SubTexture name="purple0000" x="148" y="10" width="171" height="129"/>
+	<SubTexture name="purple0001" x="148" y="10" width="171" height="129"/>
+	<SubTexture name="red0000" x="329" y="10" width="171" height="129"/>
+	<SubTexture name="red0001" x="329" y="10" width="171" height="129"/>
+	<SubTexture name="green0000" x="10" y="191" width="128" height="172"/>
+	<SubTexture name="green0001" x="10" y="191" width="128" height="172"/>
+</TextureAtlas>

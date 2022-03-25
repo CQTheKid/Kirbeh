@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="axe knight idle.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="axe knight idle instance 10000" x="10" y="10" width="433" height="451" frameX="0" frameY="0" frameWidth="447" frameHeight="451"/>
+	<SubTexture name="axe knight idle instance 10001" x="10" y="10" width="433" height="451" frameX="0" frameY="0" frameWidth="447" frameHeight="451"/>
+	<SubTexture name="axe knight idle instance 10002" x="453" y="10" width="431" height="441" frameX="-2" frameY="-10" frameWidth="447" frameHeight="451"/>
+	<SubTexture name="axe knight idle instance 10003" x="453" y="10" width="431" height="441" frameX="-2" frameY="-10" frameWidth="447" frameHeight="451"/>
+	<SubTexture name="axe knight idle instance 10004" x="10" y="471" width="433" height="434" frameX="-14" frameY="-17" frameWidth="447" frameHeight="451"/>
+	<SubTexture name="axe knight idle instance 10005" x="10" y="471" width="433" height="434" frameX="-14" frameY="-17" frameWidth="447" frameHeight="451"/>
+	<SubTexture name="axe knight idle instance 10006" x="453" y="471" width="423" height="440" frameX="-18" frameY="-11" frameWidth="447" frameHeight="451"/>
+	<SubTexture name="axe knight idle instance 10007" x="453" y="471" width="423" height="440" frameX="-18" frameY="-11" frameWidth="447" frameHeight="451"/>
+	<SubTexture name="axe knight idle instance 10008" x="453" y="471" width="423" height="440" frameX="-18" frameY="-11" frameWidth="447" frameHeight="451"/>
+</TextureAtlas>

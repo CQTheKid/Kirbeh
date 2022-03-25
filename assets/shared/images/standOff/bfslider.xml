@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfslider.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf slide0000" x="10" y="10" width="892" height="253" frameX="0" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0001" x="10" y="10" width="892" height="253" frameX="0" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0002" x="912" y="10" width="929" height="253" frameX="-1155" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0003" x="1851" y="10" width="615" height="253" frameX="-1469" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0004" x="2476" y="10" width="300" height="253" frameX="-1784" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0005" x="2786" y="10" width="916" height="253" frameX="-2098" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0006" x="10" y="273" width="908" height="253" frameX="-2106" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0007" x="928" y="273" width="900" height="253" frameX="-2114" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0008" x="1838" y="273" width="892" height="253" frameX="-2122" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0009" x="2740" y="273" width="884" height="253" frameX="-2130" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0010" x="10" y="536" width="876" height="253" frameX="-2138" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0011" x="896" y="536" width="869" height="253" frameX="-2145" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0012" x="1775" y="536" width="861" height="253" frameX="-2153" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0013" x="2646" y="536" width="853" height="253" frameX="-2161" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0014" x="10" y="799" width="845" height="253" frameX="-2169" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0015" x="865" y="799" width="837" height="253" frameX="-2177" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0016" x="1712" y="799" width="829" height="253" frameX="-2185" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0017" x="2551" y="799" width="821" height="253" frameX="-2193" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0018" x="10" y="1062" width="814" height="253" frameX="-2200" frameY="0" frameWidth="3144" frameHeight="253"/>
+	<SubTexture name="bf slide0019" x="834" y="1062" width="936" height="253" frameX="-2208" frameY="0" frameWidth="3144" frameHeight="253"/>
+</TextureAtlas>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="javelin knight idle.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="javelin knight idle0000" x="10" y="10" width="459" height="277" frameX="0" frameY="-38" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0001" x="479" y="10" width="458" height="278" frameX="-1" frameY="-36" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0002" x="947" y="10" width="463" height="297" frameX="-2" frameY="-15" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0003" x="1420" y="10" width="462" height="299" frameX="-3" frameY="-12" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0004" x="10" y="319" width="456" height="278" frameX="-3" frameY="-31" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0005" x="476" y="319" width="454" height="280" frameX="-4" frameY="-28" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0006" x="940" y="319" width="452" height="295" frameX="-5" frameY="-12" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0007" x="1402" y="319" width="450" height="295" frameX="-6" frameY="-10" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0008" x="10" y="624" width="450" height="282" frameX="-6" frameY="-21" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0009" x="10" y="624" width="450" height="282" frameX="-6" frameY="-23" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0010" x="470" y="624" width="449" height="296" frameX="-6" frameY="-11" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0011" x="470" y="624" width="449" height="296" frameX="-6" frameY="-13" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0012" x="929" y="624" width="455" height="311" frameX="-6" frameY="0" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0013" x="1394" y="624" width="455" height="311" frameX="-6" frameY="-2" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0014" x="10" y="945" width="447" height="283" frameX="-6" frameY="-31" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0015" x="10" y="945" width="447" height="283" frameX="-6" frameY="-33" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0016" x="467" y="945" width="454" height="303" frameX="-6" frameY="-15" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0017" x="467" y="945" width="454" height="303" frameX="-6" frameY="-17" frameWidth="465" frameHeight="322"/>
+	<SubTexture name="javelin knight idle0018" x="1394" y="624" width="455" height="311" frameX="-6" frameY="-11" frameWidth="465" frameHeight="322"/>
+</TextureAtlas>

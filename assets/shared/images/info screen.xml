@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="info screen.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="infoscreenfae0000" x="10" y="10" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0001" x="10" y="10" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0002" x="1940" y="10" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0003" x="3870" y="10" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0004" x="5800" y="10" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0005" x="10" y="1100" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0006" x="1940" y="1100" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0007" x="3870" y="1100" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0008" x="5800" y="1100" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0009" x="10" y="2190" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0010" x="1940" y="2190" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0011" x="3870" y="2190" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0012" x="3870" y="2190" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0013" x="3870" y="2190" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0014" x="3870" y="2190" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0015" x="3870" y="2190" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0016" x="3870" y="2190" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0017" x="3870" y="2190" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0018" x="3870" y="2190" width="1920" height="1080"/>
+	<SubTexture name="infoscreenfae0019" x="3870" y="2190" width="1920" height="1080"/>
+</TextureAtlas>

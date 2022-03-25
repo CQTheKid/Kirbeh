@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clouds.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clouds move instance 10000" x="10" y="10" width="3170" height="1483" frameX="-2728" frameY="-2728" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10001" x="10" y="10" width="3170" height="1483" frameX="-2584" frameY="-2584" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10002" x="10" y="10" width="3170" height="1483" frameX="-2441" frameY="-2440" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10003" x="10" y="10" width="3170" height="1483" frameX="-2297" frameY="-2297" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10004" x="10" y="10" width="3170" height="1483" frameX="-2153" frameY="-2153" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10005" x="10" y="10" width="3170" height="1483" frameX="-2010" frameY="-2009" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10006" x="10" y="10" width="3170" height="1483" frameX="-1866" frameY="-1866" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10007" x="10" y="10" width="3170" height="1483" frameX="-1722" frameY="-1722" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10008" x="10" y="10" width="3170" height="1483" frameX="-1579" frameY="-1579" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10009" x="10" y="10" width="3170" height="1483" frameX="-1435" frameY="-1435" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10010" x="10" y="10" width="3170" height="1483" frameX="-1292" frameY="-1291" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10011" x="10" y="10" width="3170" height="1483" frameX="-1149" frameY="-1149" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10012" x="10" y="10" width="3170" height="1483" frameX="-1005" frameY="-1005" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10013" x="10" y="10" width="3170" height="1483" frameX="-862" frameY="-861" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10014" x="10" y="10" width="3170" height="1483" frameX="-718" frameY="-718" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10015" x="10" y="10" width="3170" height="1483" frameX="-574" frameY="-574" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10016" x="10" y="10" width="3170" height="1483" frameX="-431" frameY="-431" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10017" x="10" y="10" width="3170" height="1483" frameX="-287" frameY="-287" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10018" x="10" y="10" width="3170" height="1483" frameX="-143" frameY="-143" frameWidth="5898" frameHeight="4211"/>
+	<SubTexture name="clouds move instance 10019" x="10" y="1503" width="3169" height="1482" frameX="0" frameY="0" frameWidth="5898" frameHeight="4211"/>
+</TextureAtlas>

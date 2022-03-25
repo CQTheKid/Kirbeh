@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sword knight idle.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sword knight idle instance 10000" x="10" y="10" width="455" height="490" frameX="-6" frameY="0" frameWidth="547" frameHeight="490"/>
+	<SubTexture name="sword knight idle instance 10001" x="10" y="10" width="455" height="490" frameX="-6" frameY="0" frameWidth="547" frameHeight="490"/>
+	<SubTexture name="sword knight idle instance 10002" x="475" y="10" width="501" height="441" frameX="-6" frameY="-49" frameWidth="547" frameHeight="490"/>
+	<SubTexture name="sword knight idle instance 10003" x="475" y="10" width="501" height="441" frameX="-6" frameY="-49" frameWidth="547" frameHeight="490"/>
+	<SubTexture name="sword knight idle instance 10004" x="986" y="10" width="539" height="367" frameX="0" frameY="-123" frameWidth="547" frameHeight="490"/>
+	<SubTexture name="sword knight idle instance 10005" x="986" y="10" width="539" height="367" frameX="0" frameY="-123" frameWidth="547" frameHeight="490"/>
+	<SubTexture name="sword knight idle instance 10006" x="10" y="510" width="547" height="352" frameX="0" frameY="-138" frameWidth="547" frameHeight="490"/>
+	<SubTexture name="sword knight idle instance 10007" x="10" y="510" width="547" height="352" frameX="0" frameY="-138" frameWidth="547" frameHeight="490"/>
+	<SubTexture name="sword knight idle instance 10008" x="10" y="510" width="547" height="352" frameX="0" frameY="-138" frameWidth="547" frameHeight="490"/>
+</TextureAtlas>

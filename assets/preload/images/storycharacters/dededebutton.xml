@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dededebutton.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dededebutton confirm0000" x="1799" y="10" width="560" height="788" frameX="-39" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0001" x="1799" y="10" width="560" height="788" frameX="-39" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0002" x="10" y="10" width="575" height="788" frameX="-24" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0003" x="595" y="10" width="599" height="788"/>
+	<SubTexture name="dededebutton confirm0004" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0005" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0006" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0007" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0008" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0009" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0010" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0011" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0012" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0013" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0014" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0015" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0016" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0017" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0018" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0019" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0020" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0021" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0022" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0023" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0024" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0025" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0026" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0027" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0028" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0029" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0030" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0031" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0032" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0033" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0034" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0035" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0036" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton confirm0037" x="1204" y="10" width="585" height="788" frameX="-14" frameY="0" frameWidth="599" frameHeight="788"/>
+	<SubTexture name="dededebutton select0000" x="1799" y="10" width="560" height="788" frameX="-25" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton select0001" x="1799" y="10" width="560" height="788" frameX="-25" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton select0002" x="2369" y="10" width="563" height="788" frameX="-22" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton select0003" x="2942" y="10" width="585" height="788"/>
+	<SubTexture name="dededebutton select0004" x="2942" y="10" width="585" height="788"/>
+	<SubTexture name="dededebutton select0005" x="10" y="808" width="558" height="788" frameX="-27" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton select0006" x="10" y="808" width="558" height="788" frameX="-27" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton select0007" x="2369" y="10" width="563" height="788" frameX="-22" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton select0008" x="2369" y="10" width="563" height="788" frameX="-22" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton select0009" x="2942" y="10" width="585" height="788"/>
+	<SubTexture name="dededebutton select0010" x="2942" y="10" width="585" height="788"/>
+	<SubTexture name="dededebutton select0011" x="10" y="808" width="558" height="788" frameX="-27" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton select0012" x="10" y="808" width="558" height="788" frameX="-27" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton select0013" x="2369" y="10" width="563" height="788" frameX="-22" frameY="0" frameWidth="585" frameHeight="788"/>
+	<SubTexture name="dededebutton static0000" x="578" y="808" width="566" height="791"/>
+</TextureAtlas>

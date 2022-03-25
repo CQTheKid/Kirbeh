@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_credits.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits basic0000" x="10" y="10" width="758" height="256" frameX="0" frameY="0" frameWidth="758" frameHeight="258"/>
+	<SubTexture name="credits basic0001" x="778" y="10" width="756" height="258" frameX="-2" frameY="0" frameWidth="758" frameHeight="258"/>
+	<SubTexture name="credits basic0002" x="10" y="278" width="755" height="255" frameX="-2" frameY="-3" frameWidth="758" frameHeight="258"/>
+	<SubTexture name="credits basic0003" x="775" y="278" width="755" height="233" frameX="-1" frameY="-23" frameWidth="758" frameHeight="258"/>
+	<SubTexture name="credits basic0004" x="10" y="543" width="755" height="235" frameX="-1" frameY="-21" frameWidth="758" frameHeight="258"/>
+	<SubTexture name="credits basic0005" x="775" y="543" width="755" height="235" frameX="-1" frameY="-21" frameWidth="758" frameHeight="258"/>
+	<SubTexture name="credits white0000" x="10" y="788" width="728" height="206" frameX="0" frameY="-3" frameWidth="728" frameHeight="209"/>
+	<SubTexture name="credits white0001" x="748" y="788" width="728" height="208" frameX="0" frameY="-1" frameWidth="728" frameHeight="209"/>
+	<SubTexture name="credits white0002" x="748" y="788" width="728" height="208" frameX="0" frameY="-1" frameWidth="728" frameHeight="209"/>
+	<SubTexture name="credits white0003" x="10" y="1006" width="728" height="209"/>
+	<SubTexture name="credits white0004" x="10" y="1006" width="728" height="209"/>
+	<SubTexture name="credits white0005" x="748" y="1006" width="728" height="206" frameX="0" frameY="-3" frameWidth="728" frameHeight="209"/>
+</TextureAtlas>

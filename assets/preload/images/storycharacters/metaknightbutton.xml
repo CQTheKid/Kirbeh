@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="metaknightbutton.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="metaknightbutton confirm0000" x="10" y="10" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0001" x="10" y="10" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0002" x="568" y="10" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0003" x="1126" y="10" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0004" x="1684" y="10" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0005" x="2242" y="10" width="577" height="788" frameX="-1" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0006" x="2829" y="10" width="573" height="788" frameX="-5" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0007" x="3412" y="10" width="578" height="788"/>
+	<SubTexture name="metaknightbutton confirm0008" x="10" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0009" x="10" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0010" x="10" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0011" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0012" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0013" x="1126" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0014" x="1126" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0015" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0016" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0017" x="1126" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0018" x="1126" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0019" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0020" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0021" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0022" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0023" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0024" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0025" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0026" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0027" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0028" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0029" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0030" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0031" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0032" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0033" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0034" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0035" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0036" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton confirm0037" x="568" y="808" width="548" height="788" frameX="-30" frameY="0" frameWidth="578" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0000" x="1684" y="808" width="573" height="788"/>
+	<SubTexture name="metaknightbutton select0001" x="2267" y="808" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0002" x="2825" y="808" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0003" x="3383" y="808" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0004" x="3383" y="808" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0005" x="10" y="1606" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0006" x="10" y="1606" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0007" x="568" y="1606" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0008" x="1126" y="1606" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0009" x="1684" y="1606" width="559" height="788" frameX="-14" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0010" x="2253" y="1606" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0011" x="2253" y="1606" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0012" x="2811" y="1606" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0013" x="2811" y="1606" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton select0014" x="3369" y="1606" width="548" height="788" frameX="-25" frameY="0" frameWidth="573" frameHeight="788"/>
+	<SubTexture name="metaknightbutton static0000" x="10" y="2404" width="551" height="791"/>
+</TextureAtlas>

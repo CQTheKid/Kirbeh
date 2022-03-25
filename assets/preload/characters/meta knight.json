@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				99
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right 20",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				60
+			],
+			"loop": true,
+			"fps": 23,
+			"anim": "standoff",
+			"indices": [],
+			"name": "standoff"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				35
+			],
+			"anim": "singUP-block",
+			"fps": 23,
+			"name": "block up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-12
+			],
+			"anim": "singLEFT-block",
+			"fps": 23,
+			"name": "block left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-12
+			],
+			"anim": "singRIGHT-block",
+			"fps": 23,
+			"name": "block right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-12
+			],
+			"anim": "singDOWN-block",
+			"fps": 23,
+			"name": "block down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				195,
+				147
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-attack",
+			"loop": false,
+			"name": "hit left"
+		},
+		{
+			"offsets": [
+				16,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-attack",
+			"loop": false,
+			"name": "hit down"
+		},
+		{
+			"offsets": [
+				-12,
+				170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-attack",
+			"loop": false,
+			"name": "hit up"
+		},
+		{
+			"offsets": [
+				55,
+				217
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-attack",
+			"loop": false,
+			"name": "hit right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/meta knight",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "metaknight",
+	"flip_x": false,
+	"healthbar_colors": [
+		79,
+		97,
+		197
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

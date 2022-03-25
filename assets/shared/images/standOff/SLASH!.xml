@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SLASH!.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SLASH!0000" x="10" y="10" width="2679" height="161" frameX="-126" frameY="-311" frameWidth="2805" frameHeight="811"/>
+	<SubTexture name="SLASH!0001" x="10" y="181" width="2686" height="811" frameX="-68" frameY="0" frameWidth="2805" frameHeight="811"/>
+	<SubTexture name="SLASH!0002" x="10" y="1002" width="2788" height="811" frameX="0" frameY="0" frameWidth="2805" frameHeight="811"/>
+	<SubTexture name="SLASH!0003" x="10" y="1823" width="2696" height="603" frameX="-62" frameY="-105" frameWidth="2805" frameHeight="811"/>
+	<SubTexture name="SLASH!0004" x="10" y="2436" width="2679" height="141" frameX="-126" frameY="-321" frameWidth="2805" frameHeight="811"/>
+	<SubTexture name="SLASH!0005" x="10" y="2587" width="2322" height="212" frameX="-165" frameY="-315" frameWidth="2805" frameHeight="811"/>
+	<SubTexture name="SLASH!0006" x="2342" y="2587" width="1132" height="113" frameX="-1239" frameY="-364" frameWidth="2805" frameHeight="811"/>
+	<SubTexture name="SLASH!0007" x="10" y="2809" width="2362" height="47" frameX="-72" frameY="-383" frameWidth="2805" frameHeight="811"/>
+	<SubTexture name="SLASH!0008" x="2382" y="2809" width="0" height="0" frameX="-126" frameY="-364" frameWidth="2805" frameHeight="811"/>
+	<SubTexture name="SLASH!0009" x="2382" y="2809" width="0" height="0" frameX="-126" frameY="-364" frameWidth="2805" frameHeight="811"/>
+	<SubTexture name="SLASH!0010" x="2382" y="2809" width="0" height="0" frameX="-126" frameY="-364" frameWidth="2805" frameHeight="811"/>
+</TextureAtlas>
