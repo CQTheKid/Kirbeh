@@ -414,14 +414,9 @@ class FreeplayState extends MusicBeatState
 		playerVocals = null;
 	}
 
-	function changeDiff(change:Int = 0)
+	function changeDiff(change:Int = 1)
 	{
-		curDifficulty += change;
-
-		if (curDifficulty < 0)
-			curDifficulty = CoolUtil.difficulties.length - 1;
-		if (curDifficulty >= CoolUtil.difficulties.length)
-			curDifficulty = 0;
+		curDifficulty == 1;
 
 		lastDifficultyName = CoolUtil.difficulties[curDifficulty];
 

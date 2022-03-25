@@ -1,8 +1,8 @@
 {
 	"songs": [
 		[
-			"star warrior",
-			"metaknight",
+			"clobberin",
+			"ddd",
 			[
 				66,
 				93,
@@ -21,9 +21,9 @@
 	"storyName": "Your New Week",
 	"weekName": "Custom Week",
 	"freeplayColor": [
-		79,
-		97,
-		197
+		219,
+		31,
+		11
 	],
 	"hideStoryMode": true,
 	"weekBefore": "tutorial",

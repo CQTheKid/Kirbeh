@@ -4140,7 +4140,7 @@ class PlayState extends MusicBeatState
 			{
 				case 'Galaxia Note':
 					animToPlay = singAnimations[Std.int(Math.abs(daNote.noteData))] + 'dodge';
-					FlxG.sound.play(Paths.soundRandom('swordClash', 1, 3), FlxG.random.float(0.1, 0.2));
+					FlxG.sound.play(Paths.soundRandom('swordClash', 1, 3), FlxG.random.float(0.4, 0.7));
 				default:
 					animToPlay = singAnimations[Std.int(Math.abs(daNote.noteData))] + 'miss' + daAlt;
 			}
@@ -4159,7 +4159,7 @@ class PlayState extends MusicBeatState
 			{
 				case 'Galaxia Note':
 					animToPlay = singAnimations[Std.int(Math.abs(daNote.noteData))] + '-attack';
-					FlxG.sound.play(Paths.soundRandom('swordClash', 1, 3), FlxG.random.float(0.1, 0.2));
+					FlxG.sound.play(Paths.soundRandom('swordClash', 1, 3), FlxG.random.float(0.4, 0.7));
 				default:
 					animToPlay = 'idle';
 			}
@@ -4357,7 +4357,7 @@ class PlayState extends MusicBeatState
 					if (swordGotten = true)
 					{
 						Recoils();
-						FlxG.sound.play(Paths.soundRandom('swordClash', 1, 3), FlxG.random.float(0.3, 0.6));
+						FlxG.sound.play(Paths.soundRandom('swordClash', 1, 3), FlxG.random.float(0.4, 0.7));
 						daAlt = '-attack';
 					}
 				}
